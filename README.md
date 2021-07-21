@@ -12,10 +12,10 @@ With Magento 2 Newsletter Popup, you can display the newsletter popup at any pag
 
 * Display Newsletter popup at any page 
 * Ability to display any type of content in the popup, eg. email subscription form, promotion message, special offer, logo, and social follow buttons, etc.
-* Support up to 12 social networks platform
-* Ability to show newsletter popup after x seconds, after customer scroll x% of the page, or after the page is fully loaded
+* Support up to 12 social network platforms
+* Ability to show newsletter popup: after x seconds, after customer scroll x% of the page, or after the page is fully loaded
 * Ability to define the cookie lifetime 
-* Ability to display terms & condition option on the popup to comply with GDPR
+* Ability to add terms & condition option on the popup to comply with GDPR
 * Ability to configure the popup content and more from the admin
 * Mobile-friendly
 * Support multiple-stores
