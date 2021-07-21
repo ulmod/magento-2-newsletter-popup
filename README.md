@@ -3,7 +3,7 @@
 [Magento 2 Newsletter Popup](https://www.ulmod.com/magento-2-newsletter-popup.html)  is a Magento 2 extension that allows your users to subscribe 
 to your newsletter via popup
 
-With Magento 2 Newsletter Popup, you can display the newsletter popup on any page and choose how the popup should appear at the page:  after x seconds, after the customer scrolls x% of the page, or after the page is fully loaded
+With Magento 2 Newsletter Popup, you can display the newsletter popup at any page of your site, and choose how the popup should appear at the page: "after x seconds", "after the customer scrolls x% of the page", or "after the page is fully loaded".
 
 
 <a href="https://www.ulmod.com/magento-2-newsletter-popup.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
